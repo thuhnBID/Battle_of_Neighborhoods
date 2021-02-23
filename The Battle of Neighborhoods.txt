@@ -1,0 +1,3 @@
+my Ideal is find place of ATM case in Bank. Suppose, you're in a strange city and need get some cash, 
+and you want to find a nearest ATM. 
+I'll use location data in Foursquare location to show to you.
